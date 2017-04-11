@@ -12,7 +12,7 @@ Developer: 1 person
 ## References
 ### Projector learning material
 http://www.cnblogs.com/guogangj/p/3235703.html
-http://zke1ev3n.me/2016/07/02/vysor%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8AAndroid%E5%90%8C%E5%B1%8F%E6%96%B9%E6%A1%88/
+http://zke1ev3n.me/2016/07/02/vysor%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8AAndroid%E5%90%8C%E5%B1%8F%E6%96%B9%E6%A1%88
 https://github.com/qddegtya/Android_Screen_Stream
 
 ### Extensions learning material
